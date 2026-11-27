@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+recovered_files/
+phone_backup_*/
+iphone_*/
+security_scan_*/
+adb_export_*/
+platform-tools/
+libimobiledevice/
